@@ -1,0 +1,16 @@
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\bin\Debug\net5.0\DesafioConsole.exe
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\bin\Debug\net5.0\DesafioConsole.deps.json
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\bin\Debug\net5.0\DesafioConsole.runtimeconfig.json
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\bin\Debug\net5.0\DesafioConsole.runtimeconfig.dev.json
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\bin\Debug\net5.0\DesafioConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\bin\Debug\net5.0\ref\DesafioConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\bin\Debug\net5.0\DesafioConsole.pdb
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\obj\Debug\net5.0\DesafioConsole.csprojAssemblyReference.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\obj\Debug\net5.0\DesafioConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\obj\Debug\net5.0\DesafioConsole.AssemblyInfoInputs.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\obj\Debug\net5.0\DesafioConsole.AssemblyInfo.cs
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\obj\Debug\net5.0\DesafioConsole.csproj.CoreCompileInputs.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\obj\Debug\net5.0\DesafioConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\obj\Debug\net5.0\ref\DesafioConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\obj\Debug\net5.0\DesafioConsole.pdb
+C:\Users\Silvana\Desktop\Backend - Atividades\DesafioConsole\obj\Debug\net5.0\DesafioConsole.genruntimeconfig.cache

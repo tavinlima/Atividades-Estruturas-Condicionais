@@ -1,0 +1,33 @@
+programa {
+     inclua biblioteca Calendario
+    inteiro SeuNascimento
+    inteiro AnoAtual
+    caracter niver
+    inteiro SuaIdade
+    inteiro SemanasIdade
+    
+	funcao inicio("Algoritmo converter nascimento em idade") {
+		escreva ("Insira seu ano de nascimento: ")
+        leia (SeuNascimento)
+        
+        AnoAtual = Calendario.ano_atual()
+        
+        escreva ("Já fez aniversário esse ano?")
+        escreva ("Responda com sim ou não (em minúsculo)")
+        leia (niver)
+        
+        SuaIdade = AnoAtual - SeuNascimento
+        SemanasIdade = SuaIdade * 48
+
+        se(niver == "sim"){
+            escreva ("Sua idade atual é: " + SuaIdade + " anos" + "\n")
+            escreva ("Sua idade em semanas é: " + SemanasIdade + "\n")
+        }
+        senao{
+        escreva ("Sua idade atual é: " + (SuaIdade - 1) + " anos" + "\n")
+        escreva ("Sua idade em semanas é: " + SemanasIdade + "\n")
+        }
+            
+
+	}
+}

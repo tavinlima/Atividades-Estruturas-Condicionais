@@ -1,0 +1,16 @@
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\bin\Debug\net5.0\IdadeConversãoConsole.exe
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\bin\Debug\net5.0\IdadeConversãoConsole.deps.json
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\bin\Debug\net5.0\IdadeConversãoConsole.runtimeconfig.json
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\bin\Debug\net5.0\IdadeConversãoConsole.runtimeconfig.dev.json
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\bin\Debug\net5.0\IdadeConversãoConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\bin\Debug\net5.0\ref\IdadeConversãoConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\bin\Debug\net5.0\IdadeConversãoConsole.pdb
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\obj\Debug\net5.0\IdadeConversãoConsole.csprojAssemblyReference.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\obj\Debug\net5.0\IdadeConversãoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\obj\Debug\net5.0\IdadeConversãoConsole.AssemblyInfoInputs.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\obj\Debug\net5.0\IdadeConversãoConsole.AssemblyInfo.cs
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\obj\Debug\net5.0\IdadeConversãoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\obj\Debug\net5.0\IdadeConversãoConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\obj\Debug\net5.0\ref\IdadeConversãoConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\obj\Debug\net5.0\IdadeConversãoConsole.pdb
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeConversãoConsole\obj\Debug\net5.0\IdadeConversãoConsole.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+programa {
+    real seuSalario
+    real aumentoDeSalario
+    real percentual
+    
+	funcao inicio("algoritmo salário") {
+	    escreva ("Olá! Por favor, insira o valor do seu salário: ")
+	    leia (seuSalario)
+	    
+	    percentual = (seuSalario / 100) * 30
+	    aumentoDeSalario = seuSalario + percentual
+	    
+	    se(seuSalario <500){
+	        escreva("Seu salário atual é: " + aumentoDeSalario)
+	    }
+	    senao{
+	        escreva("Você não tem direito ao aumento de salário :(")
+	    }
+		
+	}
+}

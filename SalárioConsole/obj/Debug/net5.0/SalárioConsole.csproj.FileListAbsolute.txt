@@ -1,0 +1,16 @@
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\bin\Debug\net5.0\SalárioConsole.exe
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\bin\Debug\net5.0\SalárioConsole.deps.json
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\bin\Debug\net5.0\SalárioConsole.runtimeconfig.json
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\bin\Debug\net5.0\SalárioConsole.runtimeconfig.dev.json
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\bin\Debug\net5.0\SalárioConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\bin\Debug\net5.0\ref\SalárioConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\bin\Debug\net5.0\SalárioConsole.pdb
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\obj\Debug\net5.0\SalárioConsole.csprojAssemblyReference.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\obj\Debug\net5.0\SalárioConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\obj\Debug\net5.0\SalárioConsole.AssemblyInfoInputs.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\obj\Debug\net5.0\SalárioConsole.AssemblyInfo.cs
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\obj\Debug\net5.0\SalárioConsole.csproj.CoreCompileInputs.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\obj\Debug\net5.0\SalárioConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\obj\Debug\net5.0\ref\SalárioConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\obj\Debug\net5.0\SalárioConsole.pdb
+C:\Users\Silvana\Desktop\Backend - Atividades\SalárioConsole\obj\Debug\net5.0\SalárioConsole.genruntimeconfig.cache

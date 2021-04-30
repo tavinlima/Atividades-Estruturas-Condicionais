@@ -1,0 +1,28 @@
+programa {
+    inteiro suaIdade
+    
+	funcao inicio("algoritmo idade do nadador") {
+	    escreva ("Insira sua idade aqui: ")
+	    leia (suaIdade)
+	    
+	    se (suaIdade < 5){
+	        escreva ("Você não pode se matricular :(")
+	    }
+	     se (suaIdade >= 5 e suaIdade <= 7){
+                escreva ("Você está na turma: Infantil A")
+            }
+	    
+        se (suaIdade >= 8 e suaIdade <= 10){
+                escreva ("Você está na turma: Infantil B")
+            }
+        se (suaIdade >= 11 e suaIdade <= 13){
+                escreva ("Você está na turma: Juvenil A")
+            }
+        se (suaIdade >= 14 e suaIdade <= 17){
+                escreva ("Você está na turma: Juvenil B")
+            }
+        se (suaIdade >=17){
+                escreva ("Você está na turma: Sênior")
+            }
+	}
+}

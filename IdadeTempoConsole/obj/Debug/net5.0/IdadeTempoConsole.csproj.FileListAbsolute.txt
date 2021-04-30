@@ -1,0 +1,16 @@
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\bin\Debug\net5.0\IdadeTempoConsole.exe
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\bin\Debug\net5.0\IdadeTempoConsole.deps.json
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\bin\Debug\net5.0\IdadeTempoConsole.runtimeconfig.json
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\bin\Debug\net5.0\IdadeTempoConsole.runtimeconfig.dev.json
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\bin\Debug\net5.0\IdadeTempoConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\bin\Debug\net5.0\ref\IdadeTempoConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\bin\Debug\net5.0\IdadeTempoConsole.pdb
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\obj\Debug\net5.0\IdadeTempoConsole.csprojAssemblyReference.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\obj\Debug\net5.0\IdadeTempoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\obj\Debug\net5.0\IdadeTempoConsole.AssemblyInfoInputs.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\obj\Debug\net5.0\IdadeTempoConsole.AssemblyInfo.cs
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\obj\Debug\net5.0\IdadeTempoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\obj\Debug\net5.0\IdadeTempoConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\obj\Debug\net5.0\ref\IdadeTempoConsole.dll
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\obj\Debug\net5.0\IdadeTempoConsole.pdb
+C:\Users\Silvana\Desktop\Backend - Atividades\IdadeTempoConsole\obj\Debug\net5.0\IdadeTempoConsole.genruntimeconfig.cache

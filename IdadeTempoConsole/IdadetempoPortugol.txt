@@ -1,0 +1,23 @@
+programa {
+    inteiro SuaIdade
+    inteiro MesesIdade
+    inteiro DiasIdade
+    inteiro HorasIdade
+    inteiro MinutosIdade
+    
+	funcao inicio("algoritmo de idade") {
+	    escreva ("Insira sua idade: ")
+	    leia (SuaIdade)
+	    
+
+        MesesIdade = SuaIdade * 12
+        DiasIdade = SuaIdade * 365
+        HorasIdade = DiasIdade * 24
+        MinutosIdade = HorasIdade * 60
+
+        escreva("Sua idade em meses é: " + MesesIdade + "\n")
+        escreva("Sua idade em dias é: " + DiasIdade + "\n")
+        escreva("Sua idade em horas é: " + HorasIdade + "\n")
+        escreva("Sua idade em minutos é: " + MinutosIdade + "\n")
+	}
+}
